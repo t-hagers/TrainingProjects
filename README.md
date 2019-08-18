@@ -1,0 +1,2 @@
+# TrainingProjects
+Training Project solutions
